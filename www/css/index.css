@@ -1,0 +1,140 @@
+body{
+background-color: #FFDEAD;
+
+	text-align: center;
+    line-height: 18px;
+    width: 591px;
+    height: 100px;
+    margin-left:auto;
+    margin-right:auto
+}
+h1{
+text_align:center;
+font-family: Bradley Hand ITC;
+color: #4d2600;
+}
+.cakes1{
+ position: absolute;
+  top: 14%;
+  left: 35.5%;
+  transform: translate(-18%, -35.5%);
+  color: #FFDEAD;
+  font-size: 40px;
+  font-family: Bradley Hand ITC;
+  }
+.foods{
+ position: absolute;
+  top: 45%;
+  left: 60%;
+  transform: translate(-50%, -60%);
+  color: #FFDEAD;
+  font-size: 40px;
+  font-family: Bradley Hand ITC;
+}
+.drinks{
+ position: absolute;
+  top: 75%;
+  left: 39%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 40px;
+  font-family: Bradley Hand ITC;
+}
+.cakes{
+ position: absolute;
+  top: 22%;
+  left:53%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 50px;
+  font-family: Bradley Hand ITC;
+}
+.breakfast{
+ position: absolute;
+  top: 50%;
+  left: 55%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 50px;
+  font-family: Bradley Hand ITC;
+}
+.traditionals{
+ position: absolute;
+  top: 77%;
+  left: 56%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 50px;
+  font-family: Bradley Hand ITC;
+}
+.entrees{
+ position: absolute;
+  top:24%;
+  left: 53%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 50px;
+  font-family: Bradley Hand ITC;
+}
+.maincourse{
+ position: absolute;
+  top: 57%;
+  left: 56%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 50px;
+  font-family: Bradley Hand ITC;
+}
+.img{
+width:500px;
+height:180px;
+
+}
+.img1{
+width:500px;
+height:160px;
+
+}
+.img2{
+width:500px;
+height:190px;
+}
+.lemon{
+width:500px;
+height:300px;
+
+}
+.chocolate{
+width:500px;
+height:300px;
+
+}
+.cheese{
+width:500px;
+height:300px;
+
+}
+.img3{
+width:400px;
+height:200px;
+
+}
+
+#nav {
+	padding: 0; margin: 0;
+	text-align: center; /* centrer le texte */
+}
+#nav {
+
+	   float: left;
+       color: #ffffff;
+
+       height: 36px;
+       line-height: 33px;
+       padding: 0 10px;
+       margin: 0 120px;
+       font-family: sans-serif;
+       font-size: 13px;
+       transition: .5s;
+}
+
