@@ -137,4 +137,16 @@ height:200px;
        font-size: 13px;
        transition: .5s;
 }
+.logo1{
+width:200px;
+height:180px;
+background-color: #FFDEAD;
+ margin-top:200px;
 
+}
+.AppName{
+font-family: Bradley Hand ITC;
+font-size: 40px;
+
+
+}
