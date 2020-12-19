@@ -2,16 +2,10 @@
 
 <html>
 <head>
-    <meta charset="utf-8">
-
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="msapplication-tap-highlight" content="no">
-    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
-    <meta name="color-scheme" content="light dark">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
     <link rel="stylesheet" href="css/index.css">
     <title>spaghetti</title>
 </head>
@@ -23,7 +17,7 @@
     <hr>
     <div data-role="main" class="ui-content">
         <div><img src="img/spaghetti.jpg"class="img3" ></div>
-        <div data-role="content">
+
             <h1>Ingredient</h1>
             <hr>
             <ul data-role="listview" data-inset="true">
@@ -59,8 +53,8 @@
 
 
             </ul>
-        </div>
-        <div data-role="content">
+
+
             <h1>Preparation steps</h1>
             <hr>
             <ol data-role="none" data-autodividers="false">
@@ -80,22 +74,21 @@
                 <li>Enjoy!</li>
             </ol>
 
-        </div>
     </div>
-</div>
+
 
 <hr>
-<div data-role="footer">
-    <div data-role="controlgroup" data-type="horizontal">
-        <button><a href="Home.html" class="ui-btn-inline">Menu</a></button>
-        <button><a href="#" class="ui-btn-inline">Favorites</a></button>
-        <button><a href="#" class="ui-btn-inline">My calender</a></button>
-        <button><a href="#" class="ui-btn-inline">Preferences</a></button>
-    </div>
+<div data-role="navbar">
+    <ul>
+        <li><a href="Home.html" rel="external">Home</a></li>
+        <li><a href="favorits.html" rel="external">Favorits</a></li>
+        <li><a href="MyCalendar.html">My Calendar</a></li>
+        <li><a href="Preferences.html">Preferences</a></li>
+    </ul>
 </div>
 
 
-
+</div>
 
 </body>
 </html>

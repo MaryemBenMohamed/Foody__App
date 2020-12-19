@@ -21,21 +21,10 @@
 -->
 <html>
 <head>
-    <meta charset="utf-8">
-    <!--
-    Customize this policy to fit your own app's needs. For more guidance, see:
-        https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
-    Some notes:
-        * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
-        * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
-        * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
-            * Enable inline JS: add 'unsafe-inline' to default-src
-    -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="msapplication-tap-highlight" content="no">
-    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
-    <meta name="color-scheme" content="light dark">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
     <link rel="stylesheet" href="css/index.css">
     <title>HomePage</title>
 </head>
@@ -48,10 +37,10 @@
 
     <div data-role="main" class="ui-content">
 
-        <a href="Kaakwarka.html"><img src="img/Kaakwarka.jpg"class="lemon" ></a>
+        <a href="Kaakwarka.html"rel="external"><img src="img/Kaakwarka.jpg"class="lemon" ></a>
 
-        <a href="Makroudh.html"><img src="img/makrouth.png" class="chocolate" /></a>
-        <a href="Bjawiya.html"><img src="img/bjawiya.jpg" class="cheese" /></a>
+        <a href="Makroudh.html" rel="external"><img src="img/makrouth.png" class="chocolate" /></a>
+        <a href="Bjawiya.html" rel="external"><img src="img/bjawiya.jpg" class="cheese" /></a>
 
 
     </div>
@@ -59,13 +48,13 @@
 
     <hr>
 
-    <div data-role="footer">
-        <div data-role="controlgroup" data-type="horizontal">
-            <button><a href="Home.html" class="ui-btn-inline">Menu</a></button>
-            <button><a href="Favorits.html" class="ui-btn-inline">Favorits</a></button>
-            <button><a href="MyCalendar.html" class="ui-btn-inline">My calender</a></button>
-            <button><a href="Preferences.html" class="ui-btn-inline">Preferences</a></button>
-        </div>
+    <div data-role="navbar">
+        <ul>
+            <li><a href="Home.html" rel="external">Home</a></li>
+            <li><a href="favorits.html" rel="external">Favorits</a></li>
+            <li><a href="MyCalendar.html">My Calendar</a></li>
+            <li><a href="Preferences.html">Preferences</a></li>
+        </ul>
     </div>
 </div>
 

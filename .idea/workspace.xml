@@ -2,45 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03ed2984-9346-44fa-a1cf-cc9e5c817203" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/Bjawiya.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Calamari_salad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Cesar_salad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Coffee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Coscous.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Favorits.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Hot_chocolate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Kaakwarka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Kiwi_juice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Lasagne.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Makroudh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/MyCalendar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Preferences.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Spaghetti.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/Strawberry_juice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/coktail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/croissant.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/css/welcome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/grilled_salad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/img/Logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/tea.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Bjawiya.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Bjawiya.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/Cakes&amp;Sweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Cakes&amp;Sweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Calamari_salad.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Calamari_salad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Cesar_salad.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Cesar_salad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Coffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Coscous.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Coscous.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Hot_chocolate.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Hot_chocolate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Kaakwarka.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Kaakwarka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Kiwi_juice.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Kiwi_juice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Lasagne.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Lasagne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Makroudh.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Makroudh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Spaghetti.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Spaghetti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Strawberry_juice.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Strawberry_juice.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/breakfast.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/breakfast.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/cakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/cakes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/cheese_cake.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/cheese_cake.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/chocolate_cake.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/chocolate_cake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/coktail.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/coktail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/colddrinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/colddrinks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/crepe.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/crepe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/croissant.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/croissant.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/drinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/drinks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/entrees.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/entrees.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/foods.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/foods.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/gaufre.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/gaufre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/grilled_salad.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/grilled_salad.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/hotdrinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/hotdrinks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/lemon_cake.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/lemon_cake.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/maincourse.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/maincourse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/tea.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/tea.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/traditionals.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/traditionals.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/App_food-acf1050e9385234bd4f37d5fa0a37d3b21af9df7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -154,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608374342158</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 3">
+      <created>1608396660293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608396660293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -163,33 +163,34 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="app2" />
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="425" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608388318132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="425" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1608388318132" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1608374341215">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1608396656911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1608374341215" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1608396656911" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1608386703214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608386703214" />
-    <state x="561" y="261" key="Github.ShareDialog" timestamp="1608371550018">
+    <state x="561" y="261" key="Github.ShareDialog" timestamp="1608396779500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1608371550018" />
+    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1608396779500" />
     <state x="476" y="69" key="Github.UntrackedFilesDialog" timestamp="1608317009112">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="476" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608317009112" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1608374278666">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1608396803786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608374278666" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608396803786" />
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608374255883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
