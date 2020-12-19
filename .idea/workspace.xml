@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03ed2984-9346-44fa-a1cf-cc9e5c817203" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/Bjawiya.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Bjawiya.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/Cakes&amp;Sweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Cakes&amp;Sweets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/Calamari_salad.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Calamari_salad.html" afterDir="false" />
@@ -25,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/www/colddrinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/colddrinks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/crepe.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/crepe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/croissant.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/croissant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/drinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/drinks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/entrees.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/entrees.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/foods.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/foods.html" afterDir="false" />
