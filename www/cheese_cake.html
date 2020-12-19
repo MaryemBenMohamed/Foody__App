@@ -34,16 +34,25 @@
     <meta name="msapplication-tap-highlight" content="no">
     <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
     <meta name="color-scheme" content="light dark">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
     <link rel="stylesheet" href="css/index.css">
     <title>Chocolate cake</title>
 </head>
 <body >
+<div data-role="page">
+    <div data-role="header">
 <h1>Cheese cake</h1>
+    </div>
 <hr>
-<img src="img/cheesecake.jpeg"class="img3" >
+    <div data-role="main" class="ui-content">
+<div><img src="img/cheesecake.jpeg"class="img3" ></div>
+        <div data-role="content">
 <h1>Ingredient</h1>
 <hr>
-<ul>
+
+<ul data-role="listview" data-inset="true">
 
     <li>330 g of Philadephia cheese</li>
     <li>250 g of speculoos</li>
@@ -56,9 +65,11 @@
     <li>1 vanilla pod</li>
 
 </ul>
+        </div>
+        <div data-role="content">
 <h1>Preparation steps</h1>
 <hr>
-<ol>
+<ol data-role="none" data-autodividers="false">
     <li>Preheat your oven to (160 ° C)</li>
     <li>Place the speculoos in the bowl of the Thermomix and reduce them to a powder by mixing them for 10 sec, speed 5. Pour the melted butter into the bowl and mix for 10 sec, speed 5. Place in the bottom of a buttered springform pan. Reserve in the refrigerator.</li>
     <li>Prepare the cheesecake by mixing the cheese and sugar for 30 sec, speed 5.</li>
@@ -71,18 +82,21 @@
     <li>Enjoy!</li>
 </ol>
 
+        </div>
+    </div>
+</div>
+
 </body>
 
 <hr>
-<ul id="nav">
-
-    <button><a href="menu.html">Menu</a></button>
-    <button>Favorits</button>
-    <button>My calender</button>
-    <button>Preferences</button>
-
-</ul>
-</hr>
+<div data-role="footer">
+    <div data-role="controlgroup" data-type="horizontal">
+        <button><a href="Home.html" class="ui-btn-inline">Menu</a></button>
+        <button><a href="#" class="ui-btn-inline">Favorits</a></button>
+        <button><a href="#" class="ui-btn-inline">My calender</a></button>
+        <button><a href="#" class="ui-btn-inline">Preferences</a></button>
+    </div>
+</div>
 
 
 

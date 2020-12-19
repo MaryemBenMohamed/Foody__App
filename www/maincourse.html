@@ -34,29 +34,39 @@
     <meta name="msapplication-tap-highlight" content="no">
     <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
     <meta name="color-scheme" content="light dark">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
     <link rel="stylesheet" href="css/index.css">
     <title>HomePage</title>
 </head>
-<body >
-<h1>Main course</h1>
+<body>
+<div data-role="page">
+    <div data-role="header">
+
+        <h1>Main course</h1>
+    </div>
 <hr>
+    <div data-role="main" class="ui-content">
 <img src="img/couscous.jpg"class="lemon" >
-<section>
+
     <img src="img/spaghetti.jpg" class="chocolate" />
     <img src="img/lasagne.jpg" class="cheese" />
-</section>
-</body>
+    </div>
+
+
 
 <hr>
-<ul id="nav">
 
-    <button><a href="menu.html">Menu</a></button>
-    <button>Favorits</button>
-    <button>My calender</button>
-    <button>Preferences</button>
-
-</ul>
-</hr>
+    <div data-role="footer">
+        <div data-role="controlgroup" data-type="horizontal">
+            <button><a href="#" class="ui-btn-inline">Menu</a></button>
+            <button><a href="#" class="ui-btn-inline">Favorits</a></button>
+            <button><a href="#" class="ui-btn-inline">My calender</a></button>
+            <button><a href="#" class="ui-btn-inline">Preferences</a></button>
+        </div>
+    </div>
+</div>
 
 
 

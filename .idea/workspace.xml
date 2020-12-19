@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03ed2984-9346-44fa-a1cf-cc9e5c817203" name="Default Changelist" comment="" />
+    <list default="true" id="03ed2984-9346-44fa-a1cf-cc9e5c817203" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Cakes&amp;Sweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Cakes&amp;Sweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/breakfast.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/breakfast.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/cakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/cakes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/cheese_cake.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/cheese_cake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/colddrinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/colddrinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/drinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/drinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/entrees.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/entrees.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/foods.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/foods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/hotdrinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/hotdrinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/maincourse.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/maincourse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/traditionals.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/traditionals.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lkCKQYwbWlsoG1QYYNlWaHIB8h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -100,9 +118,21 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1608131688048">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1608328019671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608131688048" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608328019671" />
+    <state x="561" y="261" key="Github.ShareDialog" timestamp="1608371550018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1608371550018" />
+    <state x="476" y="69" key="Github.UntrackedFilesDialog" timestamp="1608317009112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608317009112" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1608371519241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608371519241" />
   </component>
 </project>

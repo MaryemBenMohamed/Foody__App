@@ -34,29 +34,84 @@
     <meta name="msapplication-tap-highlight" content="no">
     <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
     <meta name="color-scheme" content="light dark">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css">
+
     <title>HomePage</title>
+    <style>
+        body{
+background-color: #FFDEAD;
+
+	text-align: center;
+    line-height: 18px;
+    width: 591px;
+    height: 100px;
+    margin-left:auto;
+    margin-right:auto
+}
+h1{
+text_align:center;
+font-family: Bradley Hand ITC;
+color: #4d2600;
+}
+.img1{
+width:500px;
+height:160px;
+
+}.cakes{
+ position: absolute;
+  top: 22%;
+  left:53%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 50px;
+  font-family: Bradley Hand ITC;
+}
+.breakfast{
+ position: absolute;
+  top: 50%;
+  left: 55%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 50px;
+  font-family: Bradley Hand ITC;
+}
+.traditionals{
+ position: absolute;
+  top: 77%;
+  left: 56%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 50px;
+  font-family: Bradley Hand ITC;
+}
+    </style>
 </head>
 <body >
+<div data-role="page">
+    <div data-role="header">
 <h1>Cakes & Sweets</h1>
+    </div>
+<hr>
+    <div data-role="main" class="ui-content">
+
+        <img src="img/wood.jpeg" class="img1">
+        <div> <a href="cakes.html" class="cakes"> Cakes  </a></div></br>
+        <img src="img/wood.jpeg" class="img1"/>
+        <div> <a href="breakfast.html" class="breakfast"> Breakfast </a> </div></br>
+        <img src="img/wood.jpeg" class="img1"/>
+        <div> <a href="traditionals.html" class="traditionals"> Traditionals </a></div>
+    </div>
 <hr>
 
-<img src="img/wood.jpeg" class="img1">
-<div> <a href="cakes.html" class="cakes"> Cakes  </a></div></br>
-<img src="img/wood.jpeg" class="img1"/>
-<div> <a href="breakfast.html" class="breakfast"> Breakfast </a> </div></br>
-<img src="img/wood.jpeg" class="img1"/>
-<div> <a href="traditionals.html" class="traditionals"> Traditionals </a></div>
-<hr>
-<ul id="nav">
-
-    <button><a href="menu.html">Menu</a></button>
-    <button>Favorits</button>
-    <button>My calender</button>
-    <button>Preferences</button>
-
-</ul>
-</hr>
+    <div data-role="footer">
+        <div data-role="controlgroup" data-type="horizontal">
+            <button><a href="#" class="ui-btn-inline">Menu</a></button>
+            <button><a href="#" class="ui-btn-inline">Favorits</a></button>
+            <button><a href="#" class="ui-btn-inline">My calender</a></button>
+            <button><a href="#" class="ui-btn-inline">Preferences</a></button>
+        </div>
+    </div>
+</div>
 
 
 

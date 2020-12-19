@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <!--
     Licensed to the Apache Software Foundation (ASF) under one
@@ -38,29 +39,38 @@
     <title>HomePage</title>
 </head>
 <body >
-<h1>Breakfast</h1>
-<hr>
-<img src="img/gaufre.jpg"class="lemon" >
-<section>
-    <img src="img/crepe.jpg" class="chocolate" />
-    <img src="img/croissant.jpg" class="cheese" />
-</section>
-</body>
+<div data-role="page">
+    <div data-role="header">
+        <h1>Breakfast</h1>
+    </div>
+    <hr>
 
-<hr>
-<ul id="nav">
+    <div data-role="main" class="ui-content">
 
-    <button><a href="menu.html">Menu</a></button>
-    <button>Favorits</button>
-    <button>My calender</button>
-    <button>Preferences</button>
+        <img src="img/gaufre.jpg"class="lemon" >
 
-</ul>
-</hr>
+            <img src="img/crepe.jpg" class="chocolate" />
+            <img src="img/croissant.jpg" class="cheese" />
+
+    </div>
+
+
+    <hr>
+
+    <div data-role="footer">
+        <div data-role="controlgroup" data-type="horizontal">
+            <button><a href="#" class="ui-btn-inline">Menu</a></button>
+            <button><a href="#" class="ui-btn-inline">Favorits</a></button>
+            <button><a href="#" class="ui-btn-inline">My calender</a></button>
+            <button><a href="#" class="ui-btn-inline">Preferences</a></button>
+        </div>
+    </div>
+</div>
 
 
 
 
 </body>
 </html>
+
 

@@ -38,25 +38,32 @@
     <title>HomePage</title>
 </head>
 <body >
-<h1>Cakes</h1>
-<hr>
+<div data-role="page">
+    <div data-role="header">
+        <h1>Cakes</h1>
+    </div>
+    <hr>
+
+    <div data-role="main" class="ui-content">
+
 <img src="img/lemon.jpg"class="lemon" >
-<section>
+
 <img src="img/chocolate.jpg" class="chocolate" />
 <img src="img/cheesecake.jpeg" class="cheese" />
-</section>
-</body>
+    </div>
+
 
 <hr>
-<ul id="nav">
 
-    <button><a href="menu.html">Menu</a></button>
-    <button>Favorits</button>
-    <button>My calender</button>
-    <button>Preferences</button>
-
-</ul>
-</hr>
+    <div data-role="footer">
+        <div data-role="controlgroup" data-type="horizontal">
+            <button><a href="#" class="ui-btn-inline">Menu</a></button>
+            <button><a href="#" class="ui-btn-inline">Favorits</a></button>
+            <button><a href="#" class="ui-btn-inline">My calender</a></button>
+            <button><a href="#" class="ui-btn-inline">Preferences</a></button>
+        </div>
+    </div>
+</div>
 
 
 
